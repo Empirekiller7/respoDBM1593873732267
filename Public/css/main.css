@@ -1,0 +1,44 @@
+body {
+    background: #ff7070 !important;
+    font-family: 'Times New Roman', Times, serif !important;
+    color: #000000 !important;
+}
+
+.content-selection {
+  display: inline-block;
+}
+
+div .bg-light {
+  background-color: rgb(72, 94, 242) !important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: white !important;
+}
+
+#this_table{
+  background: #fff;
+}
+
+.nav-item:hover{
+  background-color: #a0abf8;
+}
+
+h4{
+  text-align: center;
+  color: rgb(72, 94, 242) !important;
+  padding-bottom: 4vh;
+  padding-top: 2vh;
+}
+
+#insert-register{
+  margin-bottom: 2vh;
+}
+
+.labels-column{
+  font-weight: bold;
+}
+
+#backBottom {
+  margin-top: 6vh;
+}

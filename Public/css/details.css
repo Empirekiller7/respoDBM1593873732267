@@ -1,0 +1,9 @@
+.card-img,
+.card-img-bottom,
+.card-img-top {
+  width: 30% !important;
+}
+
+#div-image {
+  margin-top: 2vh;
+}
